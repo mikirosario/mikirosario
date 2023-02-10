@@ -14,6 +14,11 @@
 <a href="https://www.typescriptlang.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
 </a>
+<p></p>
+<a href="https://unity.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40" width="40" />
+</a>
+<p></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikirosario&theme=buefy&show_icons=true&count_private=true)
 
