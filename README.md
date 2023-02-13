@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Legends of Hapax](https://store.steampowered.com/app/1776610/Legends_of_Hapax/), Personal WebGL Project
+- 🔭 I’m currently working on [Legends of Hapax](https://store.steampowered.com/app/1776610/Legends_of_Hapax/).
 - 🌱 I’m currently learning WebGL, TypeScript, JavaScript
 
 
