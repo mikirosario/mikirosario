@@ -8,6 +8,9 @@
 <a href="https://www.w3schools.com/cs/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40" />
 </a>
+<a href="https://www.typescriptlang.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -26,8 +29,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Legends of Hapax](https://store.steampowered.com/app/1776610/Legends_of_Hapax/).
-- 🌱 I’m currently learning WebGL, TypeScript, JavaScript
+- 👽🎮 I’m currently working on Incognita, an RPG set on an alien world.
+- 🤖🙀 I’m currently studying machine learning and quantum programming.
 
 
 
