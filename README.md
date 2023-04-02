@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-- 👽🎮 I’m currently working on Incognita, an RPG set on an alien world.
+- 👽🎮 I’m currently working on [Incognita](https://github.com/mikirosario/Incognita), an RPG set on an alien world.
 - 🤖🙀 I’m currently studying machine learning and quantum programming.
 
 
