@@ -26,7 +26,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikirosario&theme=buefy&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mikirosario&hide=php,css,scss&layout=compact)
-
+## Top Languages Card is trippin', my most used languages are C, C++ and C#, hands down. Way more than JavaScript! 😂
 ## 🚀 About Me
 
 - 👽🎮 I’m currently working on [Incognita](https://github.com/mikirosario/Incognita), an RPG set on an alien world.
